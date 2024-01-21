@@ -1,14 +1,14 @@
-2024/01/19-16:42:21.065 421c Recovering log #12
-2024/01/19-16:42:21.069 421c Delete type=0 #12
-2024/01/19-16:42:21.069 421c Delete type=3 #9
-2024/01/20-00:53:18.102 5500 Level-0 table #18: started
-2024/01/20-00:53:18.109 5500 Level-0 table #18: 26731 bytes OK
-2024/01/20-00:53:18.110 5500 Delete type=0 #16
-2024/01/20-00:53:18.114 5500 Manual compaction at level-0 from '!items!A0e4hXLyCpg6jS1w' @ 72057594037927935 : 1 .. '!items!ycJsES9nyzz8iR9k' @ 0 : 0; will stop at '!items!ycJsES9nyzz8iR9k' @ 107 : 1
-2024/01/20-00:53:18.114 5500 Compacting 1@0 + 1@1 files
-2024/01/20-00:53:18.120 5500 Generated table #19@0: 19 keys, 19279 bytes
-2024/01/20-00:53:18.120 5500 Compacted 1@0 + 1@1 files => 19279 bytes
-2024/01/20-00:53:18.121 5500 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/01/20-00:53:18.121 5500 Delete type=2 #14
-2024/01/20-00:53:18.121 5500 Delete type=2 #18
-2024/01/20-00:53:18.133 5500 Manual compaction at level-0 from '!items!ycJsES9nyzz8iR9k' @ 107 : 1 .. '!items!ycJsES9nyzz8iR9k' @ 0 : 0; will stop at (end)
+2024/01/20-13:37:07.452 2c3c Recovering log #17
+2024/01/20-13:37:07.455 2c3c Delete type=0 #17
+2024/01/20-13:37:07.456 2c3c Delete type=3 #15
+2024/01/21-03:59:25.207 de8 Level-0 table #23: started
+2024/01/21-03:59:25.210 de8 Level-0 table #23: 33407 bytes OK
+2024/01/21-03:59:25.211 de8 Delete type=0 #21
+2024/01/21-03:59:25.214 de8 Manual compaction at level-0 from '!items!6X0xAg4l9z9Z62nX' @ 72057594037927935 : 1 .. '!items!ycJsES9nyzz8iR9k' @ 0 : 0; will stop at '!items!u87GjFHG1OZwQiSi' @ 131 : 1
+2024/01/21-03:59:25.214 de8 Compacting 1@0 + 1@1 files
+2024/01/21-03:59:25.225 de8 Generated table #24@0: 25 keys, 27776 bytes
+2024/01/21-03:59:25.225 de8 Compacted 1@0 + 1@1 files => 27776 bytes
+2024/01/21-03:59:25.226 de8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/21-03:59:25.226 de8 Delete type=2 #19
+2024/01/21-03:59:25.226 de8 Delete type=2 #23
+2024/01/21-03:59:25.234 de8 Manual compaction at level-0 from '!items!u87GjFHG1OZwQiSi' @ 131 : 1 .. '!items!ycJsES9nyzz8iR9k' @ 0 : 0; will stop at (end)
