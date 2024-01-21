@@ -1,0 +1,125 @@
+{
+  "id": "pf2e-inquisitor-class",
+  "title": "PF2e Inquisitor Class",
+  "authors": [
+    {"name": "SchindetNemo"}
+    
+  ],
+  "url": "https://github.com/SchindetNemo/PF2e-Inquisitor-Class",
+  "manifest": "https://raw.githubusercontent.com/YourName/PF2e-Example/master/module.json",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+   "flags": {
+    "pf2e-inquisitor-class":{
+     "pf2e-homebrew": {
+	   "featTraits": {
+	     "Inquisitor": "Inquisitor",
+		 "Judgement":{
+		   "label": "Judgement",
+		   "description":"You can cast only one judgement spell each turn, and you can only sustain one of these at a time. Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining"
+		 },
+		  "Teamwork":{
+		   "label":"Teamwork",
+		   "description":"Actions with the teamwork trait require you to have spent 10 minutes during your daily preparations reviewing stratagems with your allies. Only allies who participated are able to gain the effect of actions with the teamwork trait. Multiple actions with the teamwork trait can be prepared within these 10 minutes."
+		             }
+		            },
+		 "spellTrait":{
+		   "Inquisitor": "Inquisitor",
+		   "Judgement":{
+		   "label": "Judgement",
+		   "description":"You can cast only one judgement spell each turn, and you can only sustain one of these at a time. Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining"
+		               }
+		              }
+	                   }
+	   
+	                        }
+	        },
+  "description": "The Inquisitor Class by Achantion",
+  "packs": [
+    {
+      "name": "pf2e-inquisitor-class-spells",
+      "label": "PF2e Inquisitor Class Spells",
+      "path": "packs/pf2e-inquisitor-class-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-inquisitor-class-feats",
+      "label": "PF2e Inquisitor Class Feats",
+      "path": "packs/pf2e-inquisitor-class-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-inquisitor-class-journals",
+      "label": "PF2e Inquisitor Class Journals",
+      "path": "packs/pf2e-inquisitor-class-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-inquisitor-class",
+      "label": "PF2e Inquisitor Class",
+      "path": "packs/pf2e-inquisitor-class",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-inquisitor-features",
+      "label": "PF2e Inquisitor Class Features",
+      "path": "packs/pf2e-inquisitor-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-inquisitor-class-effects",
+      "label": "PF2e Inquisitor Class Effects",
+      "path": "packs/pf2e-inquisitor-class-effects",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}

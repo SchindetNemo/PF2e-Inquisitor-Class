@@ -1,0 +1,7 @@
+2024/01/19-16:42:21.083 50d4 Recovering log #10
+2024/01/19-16:42:21.086 50d4 Delete type=0 #10
+2024/01/19-16:42:21.086 50d4 Delete type=3 #8
+2024/01/20-00:53:18.121 5500 Level-0 table #15: started
+2024/01/20-00:53:18.128 5500 Level-0 table #15: 3362 bytes OK
+2024/01/20-00:53:18.129 5500 Delete type=0 #13
+2024/01/20-00:53:18.133 5500 Manual compaction at level-0 from '!items!MGLal6SfKRGGZ71Z' @ 72057594037927935 : 1 .. '!items!MGLal6SfKRGGZ71Z' @ 0 : 0; will stop at (end)
