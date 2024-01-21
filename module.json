@@ -8,7 +8,7 @@
   "url": "https://github.com/SchindetNemo/PF2e-Inquisitor-Class",
   "manifest": "https://raw.githubusercontent.com/SchindetNemo/PF2e-Inquisitor-Class/master/module.json",
   "download": "https://github.com/SchindetNemo/PF2e-Inquisitor-Class/archive/refs/heads/main.zip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -30,18 +30,18 @@
 	     "Inquisitor": "Inquisitor",
 		 "Judgement":{
 		   "label": "Judgement",
-		   "description":"You can cast only one judgement spell each turn, and you can only sustain one of these at a time. Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining"
+		   "description":"<p>You can cast only one judgement spell each turn, and you can only sustain one of these at a time.</p><p>Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining</p>"
 		 },
 		  "Teamwork":{
 		   "label":"Teamwork",
-		   "description":"Actions with the teamwork trait require you to have spent 10 minutes during your daily preparations reviewing stratagems with your allies. Only allies who participated are able to gain the effect of actions with the teamwork trait. Multiple actions with the teamwork trait can be prepared within these 10 minutes."
+		   "description":"<p>Actions with the teamwork trait require you to have spent 10 minutes during your daily preparations reviewing stratagems with your allies.</p><p> Only allies who participated are able to gain the effect of actions with the teamwork trait.</p><p> Multiple actions with the teamwork trait can be prepared within these 10 minutes.</p>"
 		             }
 		            },
 		 "spellTraits":{
 		   "Inquisitor": "Inquisitor",
 		   "Judgement":{
 		   "label": "Judgement",
-		   "description":"You can cast only one judgement spell each turn, and you can only sustain one of these at a time. Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining"
+		   "description":"<p>You can cast only one judgement spell each turn, and you can only sustain one of these at a time.</p><p> Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining</p>"
 		      }
 		     }
 	     }
