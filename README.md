@@ -1,4 +1,5 @@
-#Pf2e Inquisitor Class
+# Pf2e Inquisitor Class
+
 The Inquisitor Class based on u/AchantionTT's port of the Pathfinder 1e class
 (https://scribe.pf2.tools/v/ycT8B2op-class-inquisitor-v2-0)
 
