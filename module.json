@@ -37,7 +37,7 @@
 		   "description":"Actions with the teamwork trait require you to have spent 10 minutes during your daily preparations reviewing stratagems with your allies. Only allies who participated are able to gain the effect of actions with the teamwork trait. Multiple actions with the teamwork trait can be prepared within these 10 minutes."
 		             }
 		            },
-		 "spellTrait":{
+		 "spellTraits":{
 		   "Inquisitor": "Inquisitor",
 		   "Judgement":{
 		   "label": "Judgement",
