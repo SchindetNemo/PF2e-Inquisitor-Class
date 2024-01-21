@@ -2,12 +2,12 @@
   "id": "pf2e-inquisitor-class",
   "title": "PF2e Inquisitor Class",
   "authors": [
-    {"name": "SchindetNemo"}
-    
+    {"name": "SchindetNemo"}  
   ],
+  "description": "The Inquisitor Class by Achantion",
   "url": "https://github.com/SchindetNemo/PF2e-Inquisitor-Class",
-  "manifest": "https://raw.githubusercontent.com/YourName/PF2e-Example/master/module.json",
-  "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/SchindetNemo/PF2e-Inquisitor-Class/master/module.json",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -41,13 +41,11 @@
 		   "Judgement":{
 		   "label": "Judgement",
 		   "description":"You can cast only one judgement spell each turn, and you can only sustain one of these at a time. Any ongoing effects from your previous judgement spell end immediately if you cast another one that requires sustaining"
-		               }
-		              }
-	                   }
-	   
-	                        }
-	        },
-  "description": "The Inquisitor Class by Achantion",
+		      }
+		     }
+	     }
+	  }
+	},
   "packs": [
     {
       "name": "pf2e-inquisitor-class-spells",
