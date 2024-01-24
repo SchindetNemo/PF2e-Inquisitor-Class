@@ -8,7 +8,7 @@
   "url": "https://github.com/SchindetNemo/PF2e-Inquisitor-Class",
   "manifest": "https://raw.githubusercontent.com/SchindetNemo/PF2e-Inquisitor-Class/master/module.json",
   "download": "https://github.com/SchindetNemo/PF2e-Inquisitor-Class/archive/refs/heads/main.zip",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
