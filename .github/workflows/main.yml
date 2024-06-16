@@ -10,13 +10,7 @@ jobs:
     steps:
       # Checkout
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22.x'
-      # install deps
-      - run: npm ci
-      # # build fonts
-      - run: npm run build:fonts
+      
 
       # Substitute the Manifest and Download URLs in the module.json
       - name: Substitute Manifest and Download Links For Versioned Ones
